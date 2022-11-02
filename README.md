@@ -7,7 +7,7 @@
 
 ### 预览图如下：
 
-![Pandao editor.md](https://raw.githubusercontent.com/whiskyma/node-media-server/public/images/2.png "Pandao editor.md")
+![Pandao editor.md](https://github.com/whiskyma/node-media-server/blob/main/public/images/2.png "Pandao editor.md")
 
 ### 直播一共分为三个步骤
 ```
@@ -23,7 +23,7 @@
 
 你只需要建立一个文件夹，然后在这个文件夹做如下操作:
 
-一、npm i node-media-server下载流媒体服务器包
+一、npm i node-media-server下载流媒体服务器包(下载过程很慢，一般是20多分钟)
 
 二、创建一个app.js文件并输入以下内容
 
@@ -138,6 +138,6 @@ npm start
 
 ----
 ### 直播视频截图：
-![Pandao editor.md](https://raw.githubusercontent.com/whiskyma/node-media-server/public/images/1.jpg "Pandao editor.md")
+![Pandao editor.md](https://github.com/whiskyma/node-media-server/blob/main/public/images/1.jpg "Pandao editor.md")
 
 ----
